@@ -11,7 +11,7 @@ A collection of programming assignments and projects completed during my studies
 ## Skills Acquired
 - Python programming
 - Web development concepts
-- Mobile app development with Flutter
+- App development with Flutter
 
 ## Contact
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/michaeloteng-adjei/) for any inquiries or collaborations.
