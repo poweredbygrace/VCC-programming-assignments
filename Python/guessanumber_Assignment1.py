@@ -1,3 +1,24 @@
+# 1)Write a python function named GuessANumber(), in which you build a number
+# guessing game. The game asks the player to start guessing the number. Every time
+# player fails to guess the secret number, the game prints a message letting the player
+# know if the guess was too low or too high. The ask to play again. It should also let
+# player quit the game by typing "quit".
+# -If player guesses the secret number before the count limit of 10 is reached, the game
+# prints a victory message. Otherwise, prints some a 'sorry' message.
+# -It should let player choose to play another game or quit the game altogether.
+
+# The function starts like this:
+
+# def GuessANumber():
+# 	import random   # this is to use random numbers. We talk more about it later
+# 	secretNumber = random.randint(3, 30) # generates a random int between 3 and 30
+# 	guessCountLimit = 5
+
+
+# Don't forget to call the function in the script, so it get executed when you call the script.
+# You put the above function in a python script named "guessANumberGame.py".
+
+
 from random import randint
 
 def GuessANumber():
