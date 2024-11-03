@@ -12,4 +12,4 @@ A collection of programming assignments and projects completed during my studies
 - Mobile app development with Flutter
 
 ## Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-username/) or email me at [your-email@example.com] for any inquiries or collaborations.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/michaeloteng-adjei/) for any inquiries or collaborations.
