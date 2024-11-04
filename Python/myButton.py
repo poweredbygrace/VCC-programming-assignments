@@ -1,4 +1,4 @@
-from graphics import *
+from Python.graphics import *
 
 class myButton:
     def __init__(self, center, halfWidth, halfHeight, outlineColor, text, win):
